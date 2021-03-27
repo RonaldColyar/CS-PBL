@@ -1,0 +1,16 @@
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\bin\Debug\net5.0\Encryptor.exe
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\bin\Debug\net5.0\Encryptor.deps.json
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\bin\Debug\net5.0\Encryptor.runtimeconfig.json
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\bin\Debug\net5.0\Encryptor.runtimeconfig.dev.json
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\bin\Debug\net5.0\Encryptor.dll
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\bin\Debug\net5.0\ref\Encryptor.dll
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\bin\Debug\net5.0\Encryptor.pdb
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.csprojAssemblyReference.cache
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.AssemblyInfoInputs.cache
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.AssemblyInfo.cs
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.dll
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\ref\Encryptor.dll
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.pdb
+C:\Users\ronal\Downloads\Repos\CS-PBL\Encryptor\Encryptor\obj\Debug\net5.0\Encryptor.genruntimeconfig.cache
