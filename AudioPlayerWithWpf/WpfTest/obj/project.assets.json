@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\WpfTest\\WpfTest\\WpfTest.csproj",
+      "projectUniqueName": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\AudioPlayerWithWpf\\WpfTest\\WpfTest.csproj",
       "projectName": "WpfTest",
-      "projectPath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\WpfTest\\WpfTest\\WpfTest.csproj",
+      "projectPath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\AudioPlayerWithWpf\\WpfTest\\WpfTest.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\WpfTest\\WpfTest\\obj\\",
+      "outputPath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\AudioPlayerWithWpf\\WpfTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",

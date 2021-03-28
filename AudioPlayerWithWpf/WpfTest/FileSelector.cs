@@ -18,17 +18,15 @@ namespace FileSelector
             //maybe better false..
             openFileDialog.RestoreDirectory = true;
         }
-        private void PlayAudio()
-        {
-
-        }
+    
         public  void SelectFileToPlay()
         {
             setUpFileDialog();
             bool? result = openFileDialog.ShowDialog();
             if (result == true)
             {
-                filepath = openFileDialog.FileName;
+                player = new System.Media.SoundPlayer(openFileDialog.FileName);
+                player.Play();
 
             }
             else {

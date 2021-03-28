@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pNK7+vvmhCX7YajouB8/cXUQ+UevBfUfAo1Cd1FmIcXusae0L3rPjDjZlcaYOwASO5Y9VsZUaBMiVi06Vmmseg==",
+  "dgSpecHash": "SoL+tyCWwfe3wfRIGXBy2lCVm5ykYBymxFzsUeUCiZn/LyEDCjttapVYi9I+r4T005Ah8PW+A8csdOL+Itad1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\WpfTest\\WpfTest\\WpfTest.csproj",
+  "projectFilePath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\AudioPlayerWithWpf\\WpfTest\\WpfTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
