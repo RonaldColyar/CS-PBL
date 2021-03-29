@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoGui", "TodoGui\TodoGui.csproj", "{3EFE78C2-CBB5-4F53-944B-4EC3AC53B491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFE78C2-CBB5-4F53-944B-4EC3AC53B491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFE78C2-CBB5-4F53-944B-4EC3AC53B491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFE78C2-CBB5-4F53-944B-4EC3AC53B491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFE78C2-CBB5-4F53-944B-4EC3AC53B491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F89A3CAC-9FDB-44AF-B844-5C37D69B293E}
+	EndGlobalSection
+EndGlobal
