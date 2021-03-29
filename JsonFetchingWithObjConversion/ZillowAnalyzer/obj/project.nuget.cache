@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KLz48VRzGDTUG9kNhDoUKDQhVDY+VPqyvj0nJngTxIIYP8yZY46bM3cvZZjRYb07jk26x+8CcZ1F5V9UAxLQ1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\ZillowAnalyzer\\ZillowAnalyzer\\ZillowAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
