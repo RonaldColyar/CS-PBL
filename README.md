@@ -9,5 +9,8 @@ C# .net Project based learning!
 ## AudioPlayerWithWpf 
 -  simple G.U.I audio player.
 
+## Json Converter 
+
+- Uses NewtonSoft Json.Net with an Http Client to fetch data and convert that data to a native C# object.
 
 
