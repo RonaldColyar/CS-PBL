@@ -17,3 +17,7 @@ C# .net Project based learning!
 ## Beat Rate Todo 
 
 - Basic Beat Rate desktop layout with WPF.
+
+## Geek Quote!
+
+- Fetches random geek quotes from web api by using GET method.
