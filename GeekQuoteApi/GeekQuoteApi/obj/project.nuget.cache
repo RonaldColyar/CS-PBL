@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wIXwj+VRNCdfl6sj5gSBEDm7DRylXgnuc5naBxhtSuEv0Kdj1kEzXUTIuqssNfKqjJjCwk7gSoU9ipasMx9zZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ronal\\Downloads\\Repos\\CS-PBL\\GeekQuoteApi\\GeekQuoteApi\\GeekQuoteApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
