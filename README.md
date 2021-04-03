@@ -14,3 +14,6 @@ C# .net Project based learning!
 - Uses NewtonSoft Json.Net with an Http Client to fetch data and convert that data to a native C# object.
 
 
+## Beat Rate Todo 
+
+- Basic Beat Rate desktop layout with WPF.
